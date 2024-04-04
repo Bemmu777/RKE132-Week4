@@ -1,0 +1,14 @@
+C:\Users\SM\OneDrive\Töölaud\Proge\Week4Loops\Week4Loops\bin\Debug\net8.0\Week4Loops.exe
+C:\Users\SM\OneDrive\Töölaud\Proge\Week4Loops\Week4Loops\bin\Debug\net8.0\Week4Loops.deps.json
+C:\Users\SM\OneDrive\Töölaud\Proge\Week4Loops\Week4Loops\bin\Debug\net8.0\Week4Loops.runtimeconfig.json
+C:\Users\SM\OneDrive\Töölaud\Proge\Week4Loops\Week4Loops\bin\Debug\net8.0\Week4Loops.dll
+C:\Users\SM\OneDrive\Töölaud\Proge\Week4Loops\Week4Loops\bin\Debug\net8.0\Week4Loops.pdb
+C:\Users\SM\OneDrive\Töölaud\Proge\Week4Loops\Week4Loops\obj\Debug\net8.0\Week4Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SM\OneDrive\Töölaud\Proge\Week4Loops\Week4Loops\obj\Debug\net8.0\Week4Loops.AssemblyInfoInputs.cache
+C:\Users\SM\OneDrive\Töölaud\Proge\Week4Loops\Week4Loops\obj\Debug\net8.0\Week4Loops.AssemblyInfo.cs
+C:\Users\SM\OneDrive\Töölaud\Proge\Week4Loops\Week4Loops\obj\Debug\net8.0\Week4Loops.csproj.CoreCompileInputs.cache
+C:\Users\SM\OneDrive\Töölaud\Proge\Week4Loops\Week4Loops\obj\Debug\net8.0\Week4Loops.dll
+C:\Users\SM\OneDrive\Töölaud\Proge\Week4Loops\Week4Loops\obj\Debug\net8.0\refint\Week4Loops.dll
+C:\Users\SM\OneDrive\Töölaud\Proge\Week4Loops\Week4Loops\obj\Debug\net8.0\Week4Loops.pdb
+C:\Users\SM\OneDrive\Töölaud\Proge\Week4Loops\Week4Loops\obj\Debug\net8.0\Week4Loops.genruntimeconfig.cache
+C:\Users\SM\OneDrive\Töölaud\Proge\Week4Loops\Week4Loops\obj\Debug\net8.0\ref\Week4Loops.dll
